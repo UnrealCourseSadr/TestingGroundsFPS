@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{BAC67656-4950-029A-FB2D-5796BC88A8D8}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TestingGroundsFPS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
